@@ -15,10 +15,10 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Currently learning Web Development by Self
+- A passionate Self-taught Python developer
+- Currently learning Machine Learning by Self
 - 4th YearUndergraduate Student
-- Following Bsc(Hons)in IT in Data Science Dgree
+- Following Bsc(Hons)in Data Science Degree
 
 
 <br><br>
