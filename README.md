@@ -1,24 +1,24 @@
- <div align=center>
-<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Hasitha+pethum+%F0%9F%91%8B;Data+Science+Student;Python+Developer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
- </div>
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=700&height=50&lines=Hi+there+I'm+Hasitha+Pethum+%F0%9F%91%8B;Data+Science+Student;Python+Developer;Agentic+Framework+Engineer;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
+</div>
 
 <br>
 
 <p align="center">
-<a href="#"><img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" alt="Coder GIF" width="700" "></a>
+  <a href="#"><img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" alt="Coder GIF" width="700" /></a>
 </p>
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> *About me*
 
-<!--<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>-->
+## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> *About Me*
 
 <br>
 
-- A passionate Self-taught Python developer
-- Currently learning Machine Learning by Self
-- 4th YearUndergraduate Student
-- Following Bsc(Hons)in Data Science Degree
+- 🎓 Final-year Data Science undergraduate (BSc. Hons in Data Science)
+- 🧠 Self-taught Python developer with a passion for applied AI
+- 🤖 2+ years of experience building **agentic systems** and **multi-agent architectures**
+- ⚙️ Skilled in frameworks like **LangGraph**, **LangChain**, and **LLM-based pipelines**
+- 📚 Continuously exploring Machine Learning, NLP, and prompt engineering
+- 🌐 Active contributor to open-source and freelance developer communities
+
 
 
 <br><br>
