@@ -12,13 +12,11 @@
 
 <br>
 
-- 🎓 Final-year Data Science undergraduate (BSc. Hons in Data Science)
-- 🧠 Self-taught Python developer with a passion for applied AI
-- 🤖 2+ years of experience building **agentic systems** and **multi-agent architectures**
-- ⚙️ Skilled in frameworks like **LangGraph**, **LangChain**, and **LLM-based pipelines**
-- 📚 Continuously exploring Machine Learning, NLP, and prompt engineering
-- 🌐 Active contributor to open-source and freelance developer communities
-
+- 🧠 Passionate **Machine Learning Engineer** focused on real-world AI solutions
+- 🤖 2+ years of experience building **agentic systems** with **LangGraph**, **LangChain**, and custom multi-agent workflows
+- 💻 Strong Python background with a deep interest in AI/ML, LLMs, and prompt engineering
+- 🌱 Constantly exploring advances in **NLP**, **model fine-tuning**, and **LLM deployment**
+- 🚀 Freelance developer and open-source contributor, building impactful projects
 
 
 <br><br>
